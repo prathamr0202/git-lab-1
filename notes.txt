@@ -1,2 +1,8 @@
 Hello Git!
 welcome!
+bye
+good morning
+good afternoon
+good evening 
+good night
+
